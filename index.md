@@ -115,6 +115,10 @@ This is a pilot workshop, testing out a lesson that is still under development. 
   This workshop is run in collaboration between the National Oceanography Centre and JASMIN. Training accounts will be provided for access to JASMIN - you do not need a JASMIN account for this workshop.
 </p>
 
+<p>
+  Please register for this workshop by the end of 19th June.
+</p>
+
 <p id="course-notes">
   <strong>Course Notes:</strong>
   The course notes can be found on <a href="{{site.incubator_lesson_site}}">the lesson homepage</a>.
@@ -189,7 +193,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong>
-    Participants must bring a laptop which can connect to the Eduroam wifi.
+    Participants must bring a laptop which can connect to wifi.
 </p>
 
 {% comment %}
