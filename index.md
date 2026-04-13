@@ -108,11 +108,11 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="about-this-workshop">
   <strong>About this workshop:</strong>
- This Software Carpentry course is an intermediate course in Python focusing on data analysis and visualisation using the Pandas library. It starts with some basic information about Python syntax, the Jupyter notebook interface, and move through how to import CSV files, using the Pandas package to work with data frames, how to calculate summary information from a data frame, and a brief introduction to plotting. It also demonstrates how to work with databases directly from Python.  Please see the course notes for further information or get in touch with us.
+ This Software Carpentry course is an introduction to using high-performance computing systems effectively. We can’t cover every case or give an exhaustive course on parallel programming in just one day's teaching time. Instead, this workshop is intended to give you a good introduction and overview of the tools available and how to use them effectively. Command line experience is necessary for this lesson - see the Software Carpentry’s <a href="https://swcarpentry.github.io/shell-novice/">Introduction to the Unix Shell</a> course as a guide. Please see the course notes for further information or get in touch with us.
 </p>  
 
 <p>
-  Some basic knowledge of Python is assumed (such as the Introduction to Python course). Knowledge of another programming language would also be suitable. IF you have any questions about this, please get in touch with us.
+  This workshop is run in collaboration between the National Oceanography Centre and JASMIN. Training accounts will be provided for access to JASMIN - you do not need a JASMIN account for this workshop.
 </p>
 
 <p id="course-notes">
@@ -122,7 +122,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to all staff and students from the National Oceanography Centre. Limited numbers are available for other organisations who collaborate with the National Oceanography Centre.
+    This workshop is open to all staff and students from the National Oceanography Centre and everyone who uses or has an interest in using JASMIN (see <a href="https://www.jasmin.ac.uk/users/access/">JASMIN's access policy</a> for details).
 </p>
 
 
