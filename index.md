@@ -108,7 +108,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="about-this-workshop">
   <strong>About this workshop:</strong>
- This Software Carpentry course is an introduction to using high-performance computing systems effectively. We can’t cover every case or give an exhaustive course on parallel programming in just one day's teaching time. Instead, this workshop is intended to give you a good introduction and overview of the tools available and how to use them effectively. Command line experience is necessary for this lesson - see the Software Carpentry’s <a href="https://swcarpentry.github.io/shell-novice/">Introduction to the Unix Shell</a> course as a guide. Please see the course notes for further information or get in touch with us.
+ This Carpentries Incubator course is an introduction to using high-performance computing systems effectively. We can’t cover every case or give an exhaustive course on parallel programming in just one day's teaching time. Instead, this workshop is intended to give you a good introduction and overview of the tools available and how to use them effectively. Command line experience is necessary for this lesson - see the Software Carpentry’s <a href="https://swcarpentry.github.io/shell-novice/">Introduction to the Unix Shell</a> course as a guide. Please see the course notes for further information or get in touch with us.
 </p>  
 
 <p>
