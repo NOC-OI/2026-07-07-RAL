@@ -126,7 +126,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to all NERC remit researcher staff and students who uses or has an interest in using JASMIN (see <a href="https://www.jasmin.ac.uk/users/access/">JASMIN's access policy</a> for details). 
+    This workshop is open to all NERC remit research staff and students who use or have an interest in using JASMIN (see <a href="https://www.jasmin.ac.uk/users/access/">JASMIN's access policy</a> for details). 
 </p>
 
 
