@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Rutherford Appleton Laboratory"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Room TBC, Rutherford Appleton Laboratory, Harwell Campus, Didcot, OX11 0QX"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Room TBC, Science and Technology Facilities Council, Rutherford Appleton Laboratory, Harwell Campus, Didcot, OX11 0QX"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "51.5744831"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -126,7 +126,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to all staff and students from the National Oceanography Centre and everyone who uses or has an interest in using JASMIN (see <a href="https://www.jasmin.ac.uk/users/access/">JASMIN's access policy</a> for details).
+    This workshop is open to all NERC remit researcher staff and students who uses or has an interest in using JASMIN (see <a href="https://www.jasmin.ac.uk/users/access/">JASMIN's access policy</a> for details). 
 </p>
 
 
@@ -193,7 +193,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong>
-    Participants must bring a laptop which can connect to wifi.
+    Participants must bring a laptop which can connect to wifi. All in person attendees will need to register at Rutherford Appleton Laboratory reception to obtain a visitors badge and directions to the room.
 </p>
 
 {% comment %}
