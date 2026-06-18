@@ -344,26 +344,25 @@ of code below the Schedule `<h2>` header below with
 
 <h2 id="schedule">Schedule</h2>
 
-{% if site.carpentry == "swc" %}
-{% include swc/schedule.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/schedule.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/schedule.html %}
-{% elsif site.carpentry == "incubator" %}
-This workshop is teaching a lesson in 
-<a href="https://carpentries-incubator.org/">The Carpentries Incubator</a>. Please check <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for a list of lesson sections and estimated timings.
-{% endif %}
-
-{% comment %}
-Edit/replace the text above if you want to include a schedule table.
-See the contents of the _includes/custom-schedule.html file for an example of
-how one of these schedule tables is constructed.
-{% endcomment %}
-
-{% if site.pilot %}
-The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please <a href="mailto:{{page.email}}">contact the workshop organisers</a> if you would like more information about the planned schedule.
-{% endif %}
+<ul>
+  <li>Welcome and Initial Setup - 09:30 - 09:45</li>
+  <li>why use a Cluster? 09:45 - 10:00</li>
+  <li>Connecting to a Remote HPC System - 10:00 - 10:25</li>
+  <li>Exploring Remote Resources - 10:25 - 11:00</li>
+  <li>Morning Break - 11:00-11:20</li>
+  <li>Scheduler Fundamentals - 11:20 - 12:00</li>
+  <li>Environment Variables - 12:00 - 12:20</li>
+  <li>Pre-lunch feedback - 12:20 - 12:30</li>
+  <li>Lunch 12:30 - 13:30</li>
+  <li>Accecssing Software via Modules - 13:30 - 14:00</li>
+  <li>Transferring Files with Remote Computers - 14:00 - 14:20</li>
+  <li>Running a Parallel Job - 14:20 - 15:00</li>
+  <li>Afternoon Break - 15:00 - 15:20</li>
+  <li>Using Resources Effectively - 15:20 - 15:45</li>
+  <li>Using Shared Resources Responsibly - 15:45 - 16:10</li>
+  <li>End of Day feedback - 16:10 - 16:20</li>
+  <li>Q+A session - 16:20 - 17:00</li>
+</ul>
 
 <hr/>
 
