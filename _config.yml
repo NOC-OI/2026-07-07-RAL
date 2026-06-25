@@ -60,7 +60,7 @@ title: "Introduction to High-Performance Computing"
 # in The Carpentries Incubator).
 #
 # For an Incubator workshop, uncomment the line below and add the URL of the lesson site.
-incubator_lesson_site: "https://carpentries-incubator.github.io/hpc-intro/"
+incubator_lesson_site: "https://noc-oi.github.io/JASMIN-intro"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your pre-workshop survey
 # incubator_pre_survey: "put the URL of your pre-workshop survey here"
