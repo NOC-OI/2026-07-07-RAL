@@ -354,7 +354,7 @@ of code below the Schedule `<h2>` header below with
   <li>Environment Variables - 12:00 - 12:20</li>
   <li>Pre-lunch feedback - 12:20 - 12:30</li>
   <li>Lunch 12:30 - 13:30</li>
-  <li>Accecssing Software via Modules - 13:30 - 14:00</li>
+  <li>Accessing Software via Modules - 13:30 - 14:00</li>
   <li>Transferring Files with Remote Computers - 14:00 - 14:20</li>
   <li>Running a Parallel Job - 14:20 - 15:00</li>
   <li>Afternoon Break - 15:00 - 15:20</li>
